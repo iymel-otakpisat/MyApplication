@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button2">^</string>
+    <string name="button3"><![CDATA[>]]></string>
+    <string name="button4"><![CDATA[<]]></string>
+    <string name="button6"><![CDATA[>]]></string>
+    <string name="button5"><![CDATA[<]]></string>
+    <string name="button7">^</string>
+    <string name="button9">0</string>
+</resources>
